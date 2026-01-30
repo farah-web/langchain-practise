@@ -1,4 +1,4 @@
-# LangChain Practice 
+# LangChain Practise 
 
 This repository contains hands-on practice examples using **LangChain** with multiple LLM providers such as **OpenAI, Google Gemini, Anthropic, and Hugging Face**.
 
